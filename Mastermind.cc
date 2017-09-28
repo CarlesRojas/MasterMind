@@ -132,7 +132,7 @@ Code generateRandomCode(){
 	return randomCode;
 }
 
-// Prints the code c
+// Prints the MasterMind title
 void printTitle(){
     
     cout << endl <<
